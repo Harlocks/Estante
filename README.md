@@ -1,9 +1,6 @@
 <!-- —————— ESTANTE —————— -->
 
 #### ![](https://cdn.discordapp.com/attachments/757631178193764474/1070787521161740338/icon-subtopic.png) ESTANTE 
-<details>
- <summary> CLIQUE PARA ABRIR A ESTANTE </summary>
-
  | LIVRO | AUTOR | PÁGINAS | PROGRESSO | STATUS |
  | :---- | :---: | :-:| :-: | :-: |
  | O Médico e o Monstro | Robert Louis Stevenson | 093/093 | 100% | ![Completo](https://cdn.discordapp.com/attachments/513198459193655296/1004116453177434303/verify.png) |
@@ -25,6 +22,5 @@
  | Nascido Escravo | Martinho Lutero | 000/247 | 0% | ![Em Progresso](https://cdn.discordapp.com/attachments/513198459193655296/1004158065609805854/progress.png) |
  | Linux - O Guia Essencial - 5º Edição | Stephen Figgins, Robert Love, Arnold Robbins, Aaron Weber, Ellen Siever | 005/854 | 1% | ![Em Progresso](https://cdn.discordapp.com/attachments/513198459193655296/1004158065609805854/progress.png) |  
  | Foca GNU/Linux | Gleydson Mazioli da Silva | 011/145 | 8% | ![Em Progresso](https://cdn.discordapp.com/attachments/513198459193655296/1004158065609805854/progress.png) | 
-</details>
 
 <!-- —————— ESTANTE —————— -->
